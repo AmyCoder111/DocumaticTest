@@ -62,7 +62,6 @@ def square(x, y):
         path.forward(20)
         path.left(90)
 
-    print(x)
     path.end_fill()
 
 
